@@ -1,0 +1,23 @@
+{
+  "name": "patientscheduler",
+  "version": "1.0.0",
+  "description": "Scheduler for Doctors",
+  "main": "htmlRoutes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jfrew/patientscheduler.git"
+  },
+  "author": "Darius Rafei, Joe Frew, Max Paterson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jfrew/patientscheduler/issues"
+  },
+  "homepage": "https://github.com/jfrew/patientscheduler#readme",
+  "dependencies": {
+    "google-auth-library": "^0.10.0",
+    "googleapis": "^21.3.0"
+  }
+}
